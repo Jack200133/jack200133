@@ -71,4 +71,4 @@ Both apis are in trouble due to the number of requests, if you know any other to
 -->
 
 [![HitCount](https://hits.dwyl.com/Jack200133/Jack200133.svg?style=flat-square)](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FJack200133%2FJack200133.json%3Fcolor%3Dblue)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=green)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jack200133.jack200133&left_color=grey&right_color=blue)
