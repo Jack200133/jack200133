@@ -25,7 +25,7 @@ You can use the website to generate badges: https://shields.io/
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Jack200133?tab=repositories)
 [![Instagram](https://img.shields.io/badge/-Instagram-7FFFD4?style=flat&labelColor=7FFFD4&logo=instagram&logoColor=white)](https://www.instagram.com/carrera.angel03/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:angelitocarrera@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juanangelcarrerasoto@gmail.com)
 
 &nbsp;
 
@@ -36,10 +36,10 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🌱 I’m currently learning new frameworks for JS; 
+- 🌱 I’m currently doing IA; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I love coffee;
-- 📫 How to reach me: angelitocarrera@gmail.com;
+- 📫 How to reach me: juanangelcarrerasoto@gmail.com;
 
 **Languages and Tools:** 
 
